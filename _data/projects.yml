@@ -1,7 +1,41 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# Database Application
+ # UX Design
+- project: Loyalty IOS & Android Wallet Membership Digital Card
+#  role: Github Repository
+  duration: 10/2024
+  description: Collaborated with the mobile team at Hawaiian Airlines to develop membership digital cards for loyalty members at Hawaiian Airlines, utilizing Anypoint MQ, Airship, and platform APIs. 
+ 
+ # UX Design
+- project: Ellebit
+#  role: Github Repository
+  duration: 9/2022 &mdash; 6/2023
+  #url: https://github.com/Kaelepow/Ellebit
+  description: Designed an all-in-one digital booking platform with three other students for the start-up company, Ellebit. 
+
+  # UX Design
+- project: Plant Mama
+#  role: Github Repository
+  duration: 9/2022 &mdash; 12/2022
+  url: https://marikwee12.wixsite.com/plantmama
+  description: Designed a mobile application using design principles. The application is designed to make growing plants easier.
+
+# Machine Learning
+- project: Housing Prices in King County
+#  role: Github Repository
+  duration: 3/2022 &mdash; 6/2022
+  url: https://github.com/marikwee/CPSC4310-MLP
+  description: Created a Machine Learning Project to classify house prices in King County using Python.
+
+# Data Science
+- project: Water Quality 
+#  role: Github Repository
+  duration: 3/2022 &mdash; 6/2022
+  url: Water-Quality-Project-Mari-Kwee.html 
+  description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
+
+  # Database Application
 - project: Database Application
 #  role: Founder & Primary Developer
   duration: 1/2022 &mdash; 3/2022
@@ -9,30 +43,4 @@
   pdf: PDA-Presentation.pdf
   description: Created a movie database application using SQL hosted off of my university's server. Deployed the web app using HTML, CSS, PHP.
 
-# Machine Learning
-- project: Machine Learning Project
-#  role: Github Repository
-  duration: 3/2022 &mdash; 6/2022
-  url: https://github.com/marikwee/CPSC4310-MLP
-  description: Created a Machine Learning Project to classify house prices in King County using Python.
 
-# Data Science
-- project: Water Quality Project
-#  role: Github Repository
-  duration: 3/2022 &mdash; 6/2022
-  url: Water-Quality-Project-Mari-Kwee.html 
-  description: Used the data science methodology to investigate water quality in wells in Bangladesh using R. 
-
-# UX Design
-- project: Plant Mama
-#  role: Github Repository
-  duration: 9/2022 &mdash; 12/2022
-  url: https://marikwee12.wixsite.com/plantmama
-  description: Designed a mobile application using design principles. The application is designed to make growing plants easier.
-
-  # UX Design
-- project: Ellebit
-#  role: Github Repository
-  duration: 9/2022 &mdash; 6/2023
-  url: https://github.com/Kaelepow/Ellebit
-  description: Designed an all-in-one digital booking platform with three other students for the start-up company, Ellebit. 

@@ -3,7 +3,12 @@
 - company: Hawaiian Airlines
   position: Associate Software Developer at Hawaiian Airlines
   duration: July 2023 &mdash; Present
-  summary: In my current role as a software developer, I have been designing, developing, and maintaining the loyalty systems. 
+  summary: In my current role as a software developer at Hawaiian Airlines, I design, develop, and maintain the loyalty systems. 
+           I lead the effort to optimize error handling for mileage accruals, ensuring a seamless experience for agents in resolving passenger account issues. 
+           I successfully reduced accrual discrepancies for Hawaiian Miles members from around 20% to less than 1%. My work includes developing Go backend 
+           workers on AWS to automate the accrual process, creating SQL scripts for database management, writing JIRA stories to track tasks, implementing unit and 
+           integration tests, building Grafana dashboards to visualize system performance, and collaborating with cross-functional teams. Additionally, I served as a
+           mentor an intern, providing both technical and professional guidance.
 
 # Ellebit
 - company: Ellebit
