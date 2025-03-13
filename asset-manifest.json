@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ecd6f6fa.css",
+    "main.js": "/static/js/main.b2bda824.js",
+    "static/js/488.b78609e7.chunk.js": "/static/js/488.b78609e7.chunk.js",
+    "static/media/loyalty-wallet.png": "/static/media/loyalty-wallet.f1e82c084ba45e6b9bfe.png",
+    "static/media/mari-portrait-header.jpg": "/static/media/mari-portrait-header.d18748de9597c3d05cd0.jpg",
+    "static/media/waterQuality.png": "/static/media/waterQuality.bf76da8335035adcbe67.png",
+    "static/media/housingPrices.png": "/static/media/housingPrices.c41db63790568841b9a7.png",
+    "static/media/plantMama.png": "/static/media/plantMama.16f6aba42fae97b5a9b6.png",
+    "static/media/MariKweeResume.pdf": "/static/media/MariKweeResume.6658b6090ea218f1f875.pdf",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/ellebitLogo.png": "/static/media/ellebitLogo.41125c94926cf24f082e.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/go-gopher-svgrepo-com.svg": "/static/media/go-gopher-svgrepo-com.17998c2f7758f5b1498dacaf92caf9fc.svg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/aws-img.svg": "/static/media/aws-img.d9181664c31dde7fe33e65f4c3dbb3ed.svg",
+    "static/media/postman-img.svg": "/static/media/postman-img.1fb3aa37f4a2ab971ca9c2b870314e5d.svg",
+    "static/media/sql.svg": "/static/media/sql.ae1633a92c5fa57169383f9f83b0034d.svg",
+    "static/media/dotNet-img.svg": "/static/media/dotNet-img.44d3a6cab19a3ad4a9167c7f4180f639.svg",
+    "static/media/agile-svgrepo-com.svg": "/static/media/agile-svgrepo-com.5728bae92a6897ba840439caac89db68.svg",
+    "static/media/problem-solving-skill-svgrepo-com.svg": "/static/media/problem-solving-skill-svgrepo-com.d7cc7ea0881466d3b2645ffcbe49ea7a.svg",
+    "static/media/github-img.svg": "/static/media/github-img.014fecb4d702098b1215f77b278d56be.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/logo.svg": "/static/media/logo.5bcab6b71c25df38b84c7dee2f3c673a.svg",
+    "main.ecd6f6fa.css.map": "/static/css/main.ecd6f6fa.css.map",
+    "main.b2bda824.js.map": "/static/js/main.b2bda824.js.map",
+    "488.b78609e7.chunk.js.map": "/static/js/488.b78609e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecd6f6fa.css",
+    "static/js/main.b2bda824.js"
+  ]
+}
