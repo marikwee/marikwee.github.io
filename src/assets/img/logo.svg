@@ -1,0 +1,11 @@
+<svg width="200" height="150" viewBox="0 0 250 180" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="45%" font-family="Quicksand, sans-serif" font-size="60" font-weight="bold"
+        fill="#F4C2C2" text-anchor="middle" alignment-baseline="middle">mk</text>
+  <text x="50%" y="65%" font-family="Quicksand, sans-serif" font-size="20"
+        fill="#F4C2C2" text-anchor="middle" alignment-baseline="middle">mari kwee</text>
+  <path d="M 30 140 
+           Q 70 125, 110 140 
+           T 190 140 
+           Q 220 155, 250 140" 
+        stroke="#F4C2C2" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
