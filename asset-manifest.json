@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ecd6f6fa.css",
-    "main.js": "/static/js/main.b2bda824.js",
+    "main.js": "/static/js/main.f1739d3c.js",
     "static/js/488.b78609e7.chunk.js": "/static/js/488.b78609e7.chunk.js",
     "static/media/loyalty-wallet.png": "/static/media/loyalty-wallet.f1e82c084ba45e6b9bfe.png",
     "static/media/mari-portrait-header.jpg": "/static/media/mari-portrait-header.d18748de9597c3d05cd0.jpg",
@@ -15,7 +15,7 @@
     "static/media/ellebitLogo.png": "/static/media/ellebitLogo.41125c94926cf24f082e.png",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/go-gopher-svgrepo-com.svg": "/static/media/go-gopher-svgrepo-com.17998c2f7758f5b1498dacaf92caf9fc.svg",
+    "static/media/go-gopher-svgrepo-com.svg": "/static/media/go-gopher-svgrepo-com.82596370d1d2f3159dc833f557625b10.svg",
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/aws-img.svg": "/static/media/aws-img.d9181664c31dde7fe33e65f4c3dbb3ed.svg",
     "static/media/postman-img.svg": "/static/media/postman-img.1fb3aa37f4a2ab971ca9c2b870314e5d.svg",
@@ -28,11 +28,11 @@
     "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/logo.svg": "/static/media/logo.5bcab6b71c25df38b84c7dee2f3c673a.svg",
     "main.ecd6f6fa.css.map": "/static/css/main.ecd6f6fa.css.map",
-    "main.b2bda824.js.map": "/static/js/main.b2bda824.js.map",
+    "main.f1739d3c.js.map": "/static/js/main.f1739d3c.js.map",
     "488.b78609e7.chunk.js.map": "/static/js/488.b78609e7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ecd6f6fa.css",
-    "static/js/main.b2bda824.js"
+    "static/js/main.f1739d3c.js"
   ]
 }
