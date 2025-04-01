@@ -63,7 +63,7 @@ export const Banner = () => {
                             I have extensive knowledge of the loyalty systems along with a deepened understanding of working at an airlines company as a whole. 
                             I graduated from <b>Seattle University</b> in June of 2023 with a major in <b>Computer Science</b> and minor in <b>Data Science</b>. 
                             I am passionate about problem solving, collaboration, and mentorship.
-                            I am interested in <b>backend development</b>, <b>machine learning</b>, <b>artificial intelligence</b>, <b>data analytics</b>, and <b>web development</b>.</p>
+                            I am interested in <b>backend development</b>, <b>machine learning</b>, <b>data analytics</b>, and <b>web development</b>.</p>
                   </div>}
                 </TrackVisibility>
               </Col>

@@ -37,11 +37,13 @@ export const Experience = () => {
                     <p>
                     In my current role as a <b>Software Developer</b> at <b>Hawaiian Airlines</b>, I design, develop, and maintain <b>loyalty</b> systems that support both <b>Hawaiian Airlines</b> and <b>Alaska Airlines</b>. 
                     I actively contribute to <b>cross-functional</b> initiatives and <b>system enhancements</b>, collaborating closely with the Alaska Airlines Loyalty team to help establish a <b>unified</b> loyalty program. 
+                    I am currently working with the Alaska Airlines Loyalty team on the integration and data migration of bank partners, utilizing the <b>.NET framework</b>, <b>Azure Pipelines</b>, <b>Okta</b>, and <b>Sumo Logic</b>. <br /> <br />
+
                     I successfully implemented functionality that allows Alaska Airlines members to earn miles on Hawaiian Airlines flights. 
                     I addressed and <b>resolved</b> accrual discrepancies for HawaiianMiles members, successfully reducing mismatches from approximately <b>20%</b> to less than <b>1%</b>. 
                     I <b>lead</b> the effort to optimize error handling for mileage accruals, <b>streamlining</b> the remediation process for Hawaiian Airlines agents and <b>enhancing</b> the overall customer experience. <br /> <br />
 
-                    My <b>technical</b> contributions include developing backend workers in <b>Go</b> hosted on <b>AWS</b> to automate the accrual process, designing <b>SQL</b> scripts for database management and optimization, and building <b>Grafana</b> dashboards to monitor system performance and visualize key metrics. 
+                    Other contributions include developing backend workers in <b>Go</b> hosted on <b>AWS</b> to automate the accrual process, designing <b>SQL</b> scripts for database management and optimization, and building <b>Grafana</b> dashboards to monitor system performance and visualize key metrics. 
                     I also write and manage <b>JIRA</b> stories to track development tasks, implement <b>unit</b> and <b>integration</b> tests to ensure code quality, and <b>collaborate</b> with cross-functional teams to deliver impactful features. 
                     Additionally, I’ve served as a <b>mentor</b> to an intern, offering guidance in both technical skill development and professional growth.
                     </p>
@@ -114,10 +116,10 @@ export const Experience = () => {
                 )}
                 <div>
                   <div>
-                    <h4> <a className="resume" href={resumePdf} target="_blank" rel="noopener noreferrer">
+                    {/*<h4> <a className="resume" href={resumePdf} target="_blank" rel="noopener noreferrer">
                       View Full Resume
-                    </a>
-                    </h4>
+                    </a>*
+                    </h4>*/}
                   </div>
                 </div>
                 </div>

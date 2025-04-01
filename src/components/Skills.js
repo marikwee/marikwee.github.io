@@ -45,7 +45,7 @@ export const Skills = () => {
                                 <div className="item">
                                     <img src={goImg} alt="Image" />
                                     <h5>Programming Languages</h5> 
-                                    <h6>Go, C#, C++, C, Java, Python, SQL, R</h6>
+                                    <h6>Go, C#, C++, C, Python, SQL, R</h6>
                                 </div>
                                 <div className="item">
                                     <img src={dotNetImg} alt="Image" />
@@ -55,17 +55,17 @@ export const Skills = () => {
                                 <div className="item">
                                     <img src={sqlImg} alt="Image" />
                                     <h5>Database Management</h5>
-                                    <h6>Microsoft SQL Server, MySQL, Redis</h6>
+                                    <h6>Microsoft SQL Server, MySQL</h6>
                                 </div>
                                 <div className="item">
                                     <img src={awsImg} alt="Image" />
                                     <h5>Cloud Computing & DevOps</h5>
-                                    <h6>AWS, Microsoft Azure, Docker, Kubernetes, Bamboo, CI/CD pipelines</h6>
+                                    <h6>AWS, Microsoft Azure, Docker, Kubernetes, Bamboo, CI/CD pipelines, Grafana, Sumo Logic</h6>
                                 </div>
                                 <div className="item">
                                     <img src={githubImg} alt="Image" />
                                     <h5>Software Development Tools</h5>
-                                    <h6>Git, GitHub, Bitbucket</h6>
+                                    <h6>Git, GitHub, Bitbucket, Okta</h6>
                                 </div>
                                 <div className="item">
                                     <img src={postmanImg} alt="Image" />
@@ -80,7 +80,7 @@ export const Skills = () => {
                                 <div className="item">
                                     <img src={softSkillsImg} alt="Image" />
                                     <h5>Soft Skills</h5> 
-                                    <h6>Problem solving, Adaptable, Organized, Time Management, Teamwork, Communication, Mentorship</h6>
+                                    <h6>Problem solving, Adaptability, Organization, Time Management, Teamwork, Communication, Mentorship</h6>
                                 </div>
                             </Carousel>
                         </div>
